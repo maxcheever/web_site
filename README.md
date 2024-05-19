@@ -8,7 +8,7 @@ plaintext and hypertext heavy websites such as \
 https://coryarcangel.com \
 https://www.art.yale.edu \
 as well as anything that can be found on \
-https://wiby.me \
+https://wiby.me
 
 ## rationale
 
