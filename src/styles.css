@@ -1,0 +1,32 @@
+@font-face { font-family: Heming; src: url('Heming Variable.ttf'); } 
+
+body {
+   font-family: Heming;
+   font-size: 2rem;
+   height: 100%;
+   display: flex;
+}
+
+div {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-wrap: wrap;
+   position: absolute;
+   top: 0;
+   bottom: 0;
+   left: 0;
+   right: 0;
+   height: 100vh;
+}
+
+a {
+   margin: auto;
+}
+
+@media only screen 
+and (max-width : 850px) {
+  div {
+   flex-direction: column;
+  }
+}
