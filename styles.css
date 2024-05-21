@@ -5,6 +5,7 @@ body {
    font-size: 2rem;
    height: 100%;
    display: flex;
+   flex-direction: column;
 }
 
 div {
