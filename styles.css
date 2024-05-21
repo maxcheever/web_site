@@ -25,6 +25,10 @@ a {
    margin: auto;
 }
 
+img {
+   width: 99vw;
+}
+
 @media only screen 
 and (max-width : 850px) {
   div {
