@@ -26,7 +26,9 @@ a {
 }
 
 img {
-   width: 99vw;
+   width: 100vw;
+   position: relative;
+   left: -0.9vh;
 }
 
 @media only screen 
