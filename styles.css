@@ -1,7 +1,8 @@
 @font-face { font-family: Heming; src: url('Heming Variable.ttf'); } 
 
 body {
-   font-family: Heming;
+   font-family: "Courier New";
+   /* font-family: Heming; */
    font-size: 2rem;
    height: 100%;
    display: flex;
