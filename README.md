@@ -1,6 +1,6 @@
 # web site
 
-my web site <a>0xb696ff.xyz</a>
+web site [0xb696ff.xyz](https://www.0xb696ff.xyz)
 
 ## inspiration
 
